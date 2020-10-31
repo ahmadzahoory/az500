@@ -8,5 +8,5 @@ apt-get install -y mysql-server
 systemctl restart apache2.service
 cd /var/www/html/
 rm index.html
-wget https://github.com/ahmadzahoory/az500/raw/main/az-500-m02-02-code.zip
-unzip az-500-m02-02-code.zip
+wget https://github.com/ahmadzahoory/az500/raw/main/az-500-m02-03-code.zip
+unzip az-500-m02-03-code.zip
